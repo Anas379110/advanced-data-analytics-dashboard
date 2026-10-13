@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — لوحة تحليلات البيانات المتقدمة
+# 🛠️ Tech Stack — Advanced Data Analytics Dashboard
 
 - React
 - TypeScript

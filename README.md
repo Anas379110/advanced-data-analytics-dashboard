@@ -1,21 +1,20 @@
-# لوحة تحليلات البيانات المتقدمة
-**Advanced Data Analytics Dashboard** · التصنيف: واجهة أمامية (Frontend)
+# Advanced Data Analytics Dashboard
+**Advanced Data Analytics Dashboard** · Category: Frontend
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-لوحة تفاعلية مع أكثر من 15 نوع مخطط D3.js وبث في الوقت الفعلي.
+## Project Overview
+Interactive dashboard with more than 15 D3.js chart types and real-time streaming.
 
-## أبرز النقاط
-- مكونات WCAG 2.1 AA سهلة الوصول
-- 97/100 Lighthouse مع Virtual Scrolling
-- نظام Widgets قابل للتخصيص بالسحب والإفلات
+## Highlights
+- WCAG 2.1 AA accessible components
+- 97/100 Lighthouse with Virtual Scrolling
+- Customizable widget system with drag-and-drop
 
-## الدور
-مطوّر Frontend: بناء الواجهات وإدارة الحالة والتكامل مع الـ APIs وتحسين الأداء وتجربة المستخدم.
+## Role
+Frontend Developer: building interfaces, state management, API integration, performance optimization, and user experience.
 
-## التقنيات المستخدمة
+## Technologies
 React, TypeScript, D3.js, Chart.js, TanStack Query, Tailwind CSS, WebSockets, Recharts
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
